@@ -15,7 +15,7 @@ def natural_keys(text):
 client = pytumblr.TumblrRestClient(
   'gPsUK6nFPuNBFJuDCCsQzVwLJ9Z7AlJr3qdDB8mkUsIWgfoyA5',
   'iCVP39SdfDsZqQ1xQm5unl32N15eO8m8Mwx3niZRKu0gRiMR1T',
-  'jKP12UV9C1Xta6oonzwYkbpuNSDJUQE64L6hDSLVJPk46nepas',
+  '                                                  ',
   '                                                  '
 )
 
