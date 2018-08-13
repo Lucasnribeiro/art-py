@@ -58,7 +58,7 @@ for artwork_image in dir_images:
     		post += names_bot[counter]
     		post += "\nSource: " 
     		post += source_bot[counter]
-    		client.create_photo('artstation-py', state="published", tags=["artstation"],
+    		client.create_photo('art-py', state="published", tags=["artstation"],
     							caption=post,
     							data=artwork_image)	
     counter += 1
