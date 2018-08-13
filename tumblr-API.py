@@ -13,7 +13,7 @@ def natural_keys(text):
 
 # Authenticate via OAuth
 client = pytumblr.TumblrRestClient(
-  'gPsUK6nFPuNBFJuDCCsQzVwLJ9Z7AlJr3qdDB8mkUsIWgfoyA5',
+  '                                                  ',
   '                                                  ',
   '                                                  ',
   '                                                  '
