@@ -1,6 +1,8 @@
 # artstation-py
 Artstation web-parser that reposts images in Twitter and Tumblr
 
+Blog link: https://artstation-py.tumblr.com/
+
 Welcome! This is my first programming project ever. Meaning that this code is kinda like collection of sollutions made by others that can be 
 found through StackOverflow. The inital idea was to use the Twitter API, but since the keys are now held by revisions I migrated to tumblr 
 till I get my developer account approved.
