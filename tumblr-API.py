@@ -18,8 +18,6 @@ blog = client.blog_info('artstation-py')
 
 os.chdir('artstation')
 
-# iterates over pictures in models folder
-
 
 with open('name_db.txt') as name:
     names_bot = json.load(name)
