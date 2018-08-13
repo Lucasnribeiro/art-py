@@ -34,5 +34,5 @@ List of issues:
 2- Fix the multiple database .txt by creating one huge list.  
 3- Make it post the images randomly.  
 4- Identify based only on the photo file what is the artist name and the link to the post.  
-5- Instead of using a sleep() to make the scraping slower so the files don't get corrupted buffer the downloaded ones somwhow.  
+5- Instead of using a sleep() to make the scraping slower so the files don't get corrupted buffer the downloaded ones somewhow.  
 
