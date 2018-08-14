@@ -32,7 +32,7 @@ Thanks for reading my little project. I worked on this through the course of 4 d
 
 List of issues:
 
-1- The bot only reads the first page. It would be nice if it was able to go through more pages automatically.  
+1- The bot only reads the first page. It would be nice if it was able to go through more pages automatically.  ( FIXED 13/08/2018)   
 2- Fix the multiple database .txt by creating one huge list.  
 3- Make it post the images randomly.  
 4- Identify based only on the photo file what is the artist name and the link to the post.  
