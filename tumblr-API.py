@@ -20,7 +20,7 @@ client = pytumblr.TumblrRestClient(
 )
 
 # Make the request
-blog = client.blog_info('artstation-py')
+blog = client.blog_info('art-py')
 
 os.chdir('artstation')
 current_dir = os.getcwd()
