@@ -1,5 +1,5 @@
 # art-py
-Artstation web-parser that reposts images in Twitter and Tumblr
+Artstation web-parser that reposts images on Twitter* (not implement yet) and Tumblr
 
 Blog link: https://art-py.tumblr.com/
 
